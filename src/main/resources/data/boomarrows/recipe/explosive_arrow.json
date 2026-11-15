@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:arrow",
+    "minecraft:gunpowder"
+  ],
+  "result": {
+    "id": "boomarrows:explosive_arrow",
+    "count": 1
+  }
+}
